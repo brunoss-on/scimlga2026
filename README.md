@@ -1,4 +1,4 @@
-# Deep Learning for Real-World Geophysical Problems: Challenges in Seismic Methods
+# SciMLGA 2026 Short Course Materials
 
 This repository contains the notebooks, scripts, and supporting materials used in the short course **"Deep Learning for Real-World Geophysical Problems: Challenges in Seismic Methods"**, taught by **Dr. Ana Muller (Petrobras)** during
 
