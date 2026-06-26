@@ -13,6 +13,7 @@ All scripts, notebooks, and accompanying materials were developed by **Dr. Ana M
 
 **Dr. Ana Muller**  
 Petrobras
+**Email:** <anapaulaoliveira.muller@gmail.com>  
 
 ## License
 
