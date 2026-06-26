@@ -12,9 +12,8 @@ All scripts, notebooks, and accompanying materials were developed by **Dr. Ana M
 ## Author
 
 **Dr. Ana Muller**  
-Petrobras
-
-**Email:** <anapaulaoliveira.muller@gmail.com>  
+Petrobras  
+Email: <anapaulaoliveira.muller@gmail.com>
 
 ## License
 
